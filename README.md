@@ -11,7 +11,7 @@ Ce Projet est établi dans le cadre de mon épreuve E4 de BTS SIO.
 * JavaScript
 
 # Fonctionnalités 
-* diffusions de mes informations professionnelle.
+* Diffusions de mes informations professionnelle.
 * Responsive
 
 # Auteur 
