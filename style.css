@@ -120,3 +120,12 @@ svg#freepik_stories-code-typing.animated #freepik--Mouse--inject-2 {
     max-width: 800px;
     margin: auto;
 }
+
+@keyframes grow {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+  .grow {
+    animation: grow 1s infinite;
+  }
